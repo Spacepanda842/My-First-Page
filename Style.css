@@ -7,7 +7,7 @@ blockquote {
 color: aquamarine;
 }
 
-.cornflower {
+#cornflower {
     color: cornflowerblue;
 }
 
@@ -25,4 +25,37 @@ color: aquamarine;
 
 #Brawlhalla {
     color: cadetblue;
+}
+
+.main-text {
+    background-color: Black;
+    color: skyblue;
+}
+
+#corn {
+    color:cornflowerblue;
+}
+
+#cornf {
+    color: cornflowerblue;
+}
+
+#cornfl {
+    color: cornflowerblue;
+}
+
+#cornflo {
+    color: cornflowerblue;
+}
+
+#cornflow {
+    color:cornflowerblue;
+}
+
+#cornflowe {
+    color: cornflowerblue;
+}
+
+#cornflower\!{
+    color: cornflowerblue;
 }

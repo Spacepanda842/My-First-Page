@@ -33,11 +33,11 @@ color: aquamarine;
 }
 
 #corn {
-    color:cornflowerblue;
+    color:blue;
 }
 
 #cornf {
-    color: cornflowerblue;
+    color: yellow;
 }
 
 #cornfl {
@@ -59,3 +59,10 @@ color: aquamarine;
 #cornflower\!{
     color: cornflowerblue;
 }
+
+
+li:nth-child(even) {
+    background-color: aquamarine;
+}
+
+

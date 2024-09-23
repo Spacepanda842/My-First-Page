@@ -65,4 +65,16 @@ li:nth-child(even) {
     background-color: aquamarine;
 }
 
+body {
+    background-color: blueviolet;
+}
+
+.item1 {
+    background-color: black;
+}
+
+.item2 {
+    background-color: khaki;
+}
+
 
